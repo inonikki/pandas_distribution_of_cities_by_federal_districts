@@ -1,0 +1,1921 @@
+,country,region,all_ip
+0,Russia,St.-Petersburg,57816
+1,Russia,Moscow Oblast,34384
+2,Russia,Sverdlovskaya Oblast',24031
+3,Russia,Krasnodarskiy Kray,23361
+4,Russia,Samarskaya Oblast',16991
+5,Russia,Novosibirskaya Oblast',16231
+6,Russia,Rostov,15368
+7,Russia,Nizhegorodskaya Oblast',15035
+8,Russia,Tatarstan,14864
+9,Russia,Chelyabinsk,14621
+10,Russia,Bashkortostan,13449
+11,Russia,Perm Krai,11906
+12,Russia,Irkutskaya Oblast',10724
+13,Ukraine,Kyiv City,9650
+14,Russia,Voronezhskaya Oblast',9618
+15,Belarus,Minsk,9331
+16,Russia,Krasnoyarskiy Kray,8695
+17,Russia,Saratovskaya Oblast',8465
+18,Russia,Volgogradskaya Oblast',7478
+19,Russia,Omskaya Oblast',7352
+20,Russia,Kemerovskaya Oblast',7025
+21,Russia,Tyumenskaya Oblast',7017
+22,Russia,Primorskiy Kray,6925
+23,Russia,Yaroslavskaya Oblast',6631
+24,Russia,Stavropol'skiy Kray,6605
+25,Russia,Khabarovsk Krai,6339
+26,Russia,Altai Krai,6235
+27,Russia,Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra,6128
+28,Russia,Kaliningradskaya Oblast',5631
+29,Russia,Tul'skaya Oblast',5613
+30,Russia,Udmurtskaya Respublika,5485
+31,Russia,Tomskaya Oblast',5450
+32,Russia,Ulyanovsk Oblast,5055
+33,Russia,Vladimirskaya Oblast',4746
+34,Ukraine,Crimea,4739
+35,Kazakhstan,Almaty Qalasy,4595
+36,Russia,Tverskaya Oblast',4445
+37,Republic of Moldova,Municipiul Chisinau,4191
+38,Russia,Kaluzhskaya Oblast',3995
+39,Russia,Vologodskaya Oblast',3994
+40,Russia,Chuvashia,3918
+41,Russia,Orenburgskaya Oblast',3851
+42,Ukraine,Kharkivs'ka Oblast',3805
+43,Russia,Kirovskaya Oblast',3788
+44,Russia,Ryazanskaya Oblast',3787
+45,Russia,Penzenskaya Oblast',3776
+46,Russia,Belgorodskaya Oblast',3641
+47,Russia,Ivanovskaya Oblast',3512
+48,Russia,Leningrad,3348
+49,Armenia,Yerevan,3343
+50,Ukraine,Dnipropetrovska Oblast',3285
+51,Ukraine,Odessa,3252
+52,Russia,Lipetskaya Oblast',3161
+53,Ukraine,Donets'ka Oblast',3150
+54,Russia,Arkhangelskaya,2990
+55,Russia,Bryanskaya Oblast',2957
+56,Russia,Novgorodskaya Oblast',2906
+57,Russia,Astrakhanskaya Oblast',2877
+58,Azerbaijan,Baku City,2762
+59,Russia,Murmansk,2743
+60,Russia,Komi Republic,2666
+61,Russia,Kurskaya Oblast',2433
+62,Russia,Respublika Mariy-El,2432
+63,Ukraine,Misto Sevastopol',2424
+64,Russia,Smolenskaya Oblast',2359
+65,Uzbekistan,Toshkent Shahri,2244
+66,Russia,Orlovskaya Oblast',2199
+67,Russia,Tambovskaya Oblast',2096
+68,Russia,Kurganskaya Oblast',2076
+69,United States,California,1959
+70,Russia,Kostromskaya Oblast',1925
+71,Ukraine,Zaporizhia,1864
+72,Russia,Republic of Karelia,1856
+73,Ukraine,L'vivs'ka Oblast',1845
+74,Russia,Dagestan,1833
+75,Russia,Transbaikal Territory,1746
+76,Latvia,Riga,1667
+77,Russia,Respublika Mordoviya,1653
+78,Georgia,K'alak'i T'bilisi,1649
+79,Russia,Amurskaya Oblast',1633
+80,Russia,Respublika Buryatiya,1581
+81,Russia,Respublika Sakha (Yakutiya),1566
+82,Ukraine,Luhans'ka Oblast',1539
+83,Kazakhstan,Astana Qalasy,1507
+84,Kazakhstan,Qaraghandy Oblysy,1505
+85,Belarus,Vitebsk,1477
+86,Russia,Sakhalinskaya Oblast',1431
+87,Belarus,Grodnenskaya,1431
+88,Russia,Yamalo-Nenetskiy Avtonomnyy Okrug,1344
+89,Kyrgyzstan,Gorod Bishkek,1325
+90,Belarus,Gomel,1301
+91,Russia,Pskovskaya Oblast',1282
+92,Republic of Moldova,Unitatea Teritoriala din Stinga Nistrului,1257
+93,Belarus,Mogilev,1249
+94,Ukraine,Khersons'ka Oblast',1205
+95,Russia,North Ossetia,1110
+96,Russia,Respublika Khakasiya,1076
+97,Czech Republic,Hlavni mesto Praha,1060
+98,Thailand,Bangkok,999
+99,Israel,Tel Aviv,990
+100,Ukraine,Poltavs'ka Oblast',985
+101,Ukraine,Mykolayivs'ka Oblast',940
+102,Netherlands,North Holland,916
+103,United States,New York,908
+104,United Kingdom,England,891
+105,Belarus,Brest,888
+106,Ukraine,Cherkas'ka Oblast',865
+107,Ukraine,Vinnyts'ka Oblast',859
+108,Ukraine,Sums'ka Oblast',852
+109,Russia,Respublika Adygeya,827
+110,Russia,Kabardino-Balkarskaya Respublika,794
+111,Estonia,Harjumaa,793
+112,Russia,Chechnya,756
+113,Germany,Bavaria,754
+114,Turkey,Istanbul,724
+115,Kazakhstan,Pavlodar Oblysy,708
+116,Kazakhstan,Aktyubinskaya Oblast',657
+117,Kazakhstan,Qostanay Oblysy,648
+118,Kazakhstan,East Kazakhstan,648
+119,Vietnam,Thanh Pho Ha Noi,628
+120,Germany,North Rhine-Westphalia,608
+121,Ukraine,Zhytomyrs'ka Oblast',597
+122,Ukraine,Chernihiv,593
+123,Russia,Karachayevo-Cherkesiya,529
+124,Ukraine,Kirovohrads'ka Oblast',524
+125,Ukraine,Chernivtsi,524
+126,Ukraine,Rivnens'ka Oblast',511
+127,United States,Florida,508
+128,Germany,Land Berlin,504
+129,Republic of Lithuania,Vilnius County,500
+130,Ukraine,Zakarpattia Oblast,494
+131,United States,New Jersey,467
+132,China,Guangdong,466
+133,Ukraine,Khmel'nyts'ka Oblast',464
+134,France,Paris,451
+135,Russia,Kamtchatski Kray,451
+136,Kazakhstan,Yuzhno-Kazakhstanskaya Oblast',435
+137,United States,Texas,421
+138,Ukraine,Kyiv Oblast,420
+139,Canada,Ontario,418
+140,Kazakhstan,Severo-Kazakhstanskaya Oblast',418
+141,Ukraine,Ternopil's'ka Oblast',402
+142,United States,Virginia,400
+143,Sweden,Stockholm,399
+144,Germany,Hesse,397
+145,Kazakhstan,Atyrau Oblysy,388
+146,Kazakhstan,Aqmola Oblysy,369
+147,Poland,Masovian Voivodeship,368
+148,Germany,Baden-W?rttemberg Region,357
+149,Spain,Barcelona,349
+150,Ukraine,Ivano-Frankivs'ka Oblast',343
+151,Ukraine,Volyns'ka Oblast',335
+152,Spain,Madrid,320
+153,United Arab Emirates,Dubai,311
+154,Kazakhstan,Zhambyl Oblysy,306
+155,Russia,Respublika Ingushetiya,300
+156,Bulgaria,Sofia-Capital,298
+157,Finland,Uusimaa,279
+158,United States,Illinois,276
+159,Kazakhstan,Batys Qazaqstan Oblysy,275
+160,Indonesia,Daerah Khusus Ibukota Jakarta,272
+161,China,Beijing Shi,260
+162,Turkey,Antalya,258
+163,Canada,Quebec,251
+164,Russia,Magadanskaya Oblast',247
+165,Greece,Attica,246
+166,Kazakhstan,Mangistauskaya Oblast',245
+167,Thailand,Phuket,235
+168,Estonia,Ida-Virumaa,233
+169,Italy,Milan,233
+170,Pakistan,Punjab,226
+171,Serbia,Central Serbia,225
+172,United States,Washington,223
+173,Switzerland,Zurich,217
+174,Israel,Central District,216
+175,Brazil,Sao Paulo,213
+176,Republic of Moldova,Municipiul Balti,210
+177,Republic of Korea,Seoul,209
+178,Egypt,Muhafazat al Qahirah,207
+179,United States,Georgia,206
+180,Montenegro,Podgorica,204
+181,Spain,Alicante,200
+182,Italy,Rome,194
+183,Romania,Bucuresti,193
+184,Japan,Tokyo,192
+185,United States,Delaware,189
+186,Bulgaria,Burgas,188
+187,Kazakhstan,Almaty Oblysy,187
+188,India,Maharashtra,184
+189,Russia,Kalmykiya,178
+190,Cyprus,Lefkosia,175
+191,Israel,Haifa,172
+192,China,Shanghai Shi,171
+193,Germany,Lower Saxony,169
+194,Nigeria,Lagos,162
+195,Austria,Vienna,162
+196,China,Fujian,161
+197,Bulgaria,Varna,160
+198,United States,Arizona,157
+199,Russia,Respublika Altay,153
+200,Venezuela,Capital,151
+201,Cyprus,Limassol,151
+202,Indonesia,Bali,151
+203,Republic of Moldova,Municipiul Bender,150
+204,Kazakhstan,Qyzylorda Oblysy,149
+205,Germany,Hamburg,146
+206,United States,Pennsylvania,146
+207,China,Zhejiang Sheng,144
+208,Russia,Respublika Tyva,144
+209,Vietnam,Ho Chi Minh City,142
+210,Australia,New South Wales,140
+211,Canada,British Columbia,139
+212,Spain,Valencia,137
+213,Netherlands,South Holland,136
+214,India,National Capital Territory of Delhi,135
+215,Portugal,Lisbon,134
+216,Latvia,Daugavpils,133
+217,Russia,Jewish Autonomous Oblast,132
+218,Hungary,Budapest fovaros,130
+219,United States,Massachusetts,128
+220,United States,Ohio,123
+221,Republic of Lithuania,Kauno apskritis,122
+222,United States,Utah,122
+223,United States,Oregon,120
+224,Ireland,Dublin City,118
+225,Russia,Nenetskiy Avtonomnyy Okrug,116
+226,Germany,Saxony,111
+227,Turkey,Ankara,110
+228,Republic of Lithuania,Klaipedos apskritis,110
+229,Norway,Oslo County,106
+230,Poland,Lesser Poland Voivodeship,104
+231,United States,Michigan,104
+232,Denmark,Capital Region,103
+233,China,Shandong Sheng,102
+234,Sweden,V?stra G?taland,99
+235,Turkmenistan,Ahal,98
+236,Spain,Malaga,96
+237,Australia,Victoria,95
+238,China,Heilongjiang Sheng,95
+239,Poland,Silesian Voivodeship,94
+240,United States,North Carolina,92
+241,Dominican Republic,Nacional,91
+242,United States,Missouri,91
+243,Germany,Rheinland-Pfalz,90
+244,Mexico,Nuevo Le?n,90
+245,Bangladesh,Dhaka,89
+246,Indonesia,West Java,89
+247,France,Alpes-Maritimes,88
+248,Armenia,Kotayk Province,87
+249,Cambodia,Phnom Penh,86
+250,Brazil,Rio de Janeiro,86
+251,Pakistan,Sindh,84
+252,United States,Nevada,83
+253,Poland,Kujawsko-Pomorskie,83
+254,Republic of Korea,Gyeonggi-do,83
+255,China,Jiangsu Sheng,80
+256,Iran,Isfahan,80
+257,Latvia,Jurmala,79
+258,Latvia,Liepaja,79
+259,Indonesia,East Java,79
+260,United States,Maryland,78
+261,Italy,Naples,78
+262,Thailand,Changwat Chon Buri,77
+263,United States,Colorado,77
+264,Malaysia,Kuala Lumpur,74
+265,Turkey,Izmir,74
+266,Poland,Greater Poland Voivodeship,74
+267,Netherlands,North Brabant,73
+268,Poland,Lower Silesian Voivodeship,72
+269,Venezuela,Lara,71
+270,Spain,Santa Cruz de Tenerife,71
+271,Belgium,Brussels Capital,71
+272,New Zealand,Auckland,69
+273,China,Henan Sheng,68
+274,India,Karnataka,67
+275,Georgia,Shida Kartli,66
+276,Israel,Southern District,66
+277,Montenegro,Budva,65
+278,France,Hauts-de-Seine,65
+279,India,West Bengal,65
+280,Belgium,Antwerp Province,65
+281,Saudi Arabia,Ar Riy??,65
+282,Belgium,East Flanders Province,64
+283,Sweden,Sk?ne,63
+284,Taiwan,Taipei,63
+285,Venezuela,Aragua,62
+286,Poland,Pomeranian Voivodeship,62
+287,Peru,Provincia de Lima,62
+288,Slovak Republic,Bratislavsky kraj,62
+289,Italy,Turin,62
+290,Colombia,Bogota D.C.,61
+291,Australia,Queensland,59
+292,Spain,Girona,58
+293,Turkey,Bursa,58
+294,Thailand,Chiang Mai Province,58
+295,Israel,Jerusalem,58
+296,China,Liaoning,56
+297,Sri Lanka,Western Province,56
+298,Brazil,Minas Gerais,56
+299,Philippines,National Capital Region,56
+300,India,Tamil Nadu,55
+301,India,Telangana,55
+302,Iceland,Capital Region,55
+303,Czech Republic,Karlovarsky kraj,54
+304,Latvia,Jelgava,54
+305,Azerbaijan,Sumqayit City,53
+306,Australia,Western Australia,53
+307,Argentina,Buenos Aires F.D.,52
+308,Malaysia,Selangor,52
+309,Venezuela,Zulia,51
+310,Venezuela,Carabobo,51
+311,Brazil,Parana,51
+312,South Africa,Gauteng,50
+313,Mexico,Mexico City,50
+314,China,Jilin Sheng,49
+315,Bulgaria,Plovdiv,48
+316,Mongolia,Ulaanbaatar Hot,48
+317,Hashemite Kingdom of Jordan,Amman,48
+318,Brazil,Goias,47
+319,Greece,Magnesia,47
+320,Latvia,Rezekne,47
+321,Canada,Alberta,47
+322,Spain,Tarragona,46
+323,Czech Republic,Mesto Brno,46
+324,Morocco,Casablanca,46
+325,Germany,Schleswig-Holstein,45
+326,India,Uttar Pradesh,45
+327,Palestine,West Bank,45
+328,United States,Connecticut,45
+329,United States,Minnesota,45
+330,Tajikistan,Viloyati Sughd,44
+331,Romania,Vaslui,44
+332,Slovenia,Ljubljana,44
+333,China,Yunnan,44
+334,Turkey,Konya,44
+335,Luxembourg,District de Luxembourg,44
+336,Netherlands,Provincie Gelderland,44
+337,Greece,Thessaloniki,43
+338,Italy,Provincia di Brescia,43
+339,Saudi Arabia,Makkah Province,43
+340,Italy,Provincia di Bologna,43
+341,Italy,Province of Florence,43
+342,France,Seine-Saint-Denis,43
+343,France,North,43
+344,India,Haryana,42
+345,Chile,Santiago Metropolitan,42
+346,Republic of Lithuania,Utenos apskritis,42
+347,Germany,Thuringia,42
+348,France,Rh?ne,42
+349,Iraq,Mayorality of Baghdad,41
+350,France,Val-de-Marne,41
+351,Spain,Balearic Islands,41
+352,United Kingdom,Birmingham,41
+353,Indonesia,Central Java,41
+354,France,Bouches-du-Rh?ne,41
+355,China,Inner Mongolia,40
+356,United States,Tennessee,40
+357,United States,Indiana,40
+358,Romania,Gorj,40
+359,Switzerland,Geneva,40
+360,Italy,Provincia di Verona,40
+361,United Arab Emirates,Abu Dhabi,39
+362,Togo,Maritime,39
+363,United States,Wisconsin,39
+364,Republic of Moldova,Cahul,39
+365,Spain,Murcia,39
+366,China,Chongqing Shi,39
+367,South Africa,Province of the Western Cape,38
+368,Netherlands,Provincie Flevoland,38
+369,Estonia,Tartu,38
+370,Czech Republic,Havl??k?v Brod District,38
+371,United Kingdom,Bristol,38
+372,Israel,Northern District,38
+373,Italy,Trento,38
+374,Portugal,Distrito do Porto,38
+375,Brazil,Bahia,37
+376,Ecuador,Provincia de Pichincha,37
+377,Czech Republic,Central Bohemia,37
+378,India,Gujarat,37
+379,Mexico,Quintana Roo,36
+380,Indonesia,Daerah Istimewa Yogyakarta,36
+381,United Kingdom,Surrey,36
+382,United Kingdom,Manchester,36
+383,Thailand,Changwat Surat Thani,36
+384,Poland,Subcarpathian Voivodeship,35
+385,United Kingdom,Kent,35
+386,China,Anhui Sheng,35
+387,United States,South Carolina,35
+388,China,Hubei,35
+389,Poland,??d? Voivodeship,35
+390,China,Hebei,34
+391,Lebanon,Beyrouth,34
+392,China,Tianjin Shi,34
+393,Italy,Monza Brianza,34
+394,Brazil,Rio Grande do Sul,34
+395,Colombia,Antioquia,34
+396,Finland,Lapponia,33
+397,France,Bas-Rhin,32
+398,Ghana,Greater Accra Region,32
+399,Germany,Saxony-Anhalt,32
+400,Italy,Padua,32
+401,Turkey,Mu?la,32
+402,India,State of Punjab,32
+403,France,Yvelines,32
+404,Republic of Moldova,Laloveni,31
+405,United Arab Emirates,Ash Shariqah,31
+406,China,Guangxi Zhuangzu Zizhiqu,31
+407,Republic of Lithuania,Siauliu apskritis,31
+408,Armenia,Armavir Province,31
+409,Bulgaria,Blagoevgrad,31
+410,Portugal,Distrito de Faro,30
+411,United Kingdom,Hertfordshire,30
+412,China,Xinjiang Uygur Zizhiqu,30
+413,Poland,Podlasie,30
+414,Argentina,Buenos Aires,30
+415,China,Sichuan Sheng,29
+416,Turkey,Sakarya,29
+417,Denmark,Central Jutland,29
+418,Netherlands,Provincie Utrecht,29
+419,Spain,Las Palmas,29
+420,India,Kerala,29
+421,China,Jiangxi Sheng,28
+422,Vietnam,Tinh Khanh Hoa,28
+423,Turkey,Adana,28
+424,Romania,Dolj,28
+425,Belgium,Flemish Brabant Province,28
+426,Egypt,Alexandria,28
+427,Serbia,Vojvodina,28
+428,Qatar,Baladiyat ad Dawhah,27
+429,Poland,West Pomeranian Voivodeship,27
+430,Austria,Tyrol,27
+431,Germany,Brandenburg,27
+432,Germany,Bremen,27
+433,United States,Alabama,27
+434,Morocco,Marrakech-Tensift-Al Haouz,27
+435,Italy,Provincia di Rimini,27
+436,Thailand,Changwat Nonthaburi,27
+437,Italy,Provincia di Bergamo,27
+438,Romania,Judetul Cluj,27
+439,China,Hunan,27
+440,Turkey,Mersin,26
+441,Armenia,Lori Province,26
+442,Denmark,South Denmark,26
+443,Ivory Coast,Lagunes,26
+444,Croatia,Grad Zagreb,26
+445,Germany,Mecklenburg-Vorpommern,26
+446,Italy,Provincia di Genova,26
+447,Belgium,Hainaut Province,26
+448,Spain,Seville,25
+449,Republic of Korea,Incheon,25
+450,France,Gironde,25
+451,Brazil,Pernambuco,25
+452,Poland,Lublin Voivodeship,25
+453,Netherlands,Provincie Overijssel,25
+454,Switzerland,Vaud,25
+455,Republic of Lithuania,Panev??ys,24
+456,Spain,Granada,24
+457,France,Essonne,24
+458,United Kingdom,Cambridgeshire,24
+459,United Kingdom,Hampshire,24
+460,Macedonia,Opstina Karpos,24
+461,Cyprus,Pafos,24
+462,United States,Kansas,23
+463,China,Shaanxi,23
+464,Costa Rica,Provincia de San Jose,23
+465,Belgium,West Flanders Province,23
+466,Belgium,Li?ge Province,23
+467,Kuwait,Al Asimah,23
+468,France,Haute-Savoie,22
+469,Indonesia,North Sumatra,22
+470,United Kingdom,Nottingham,22
+471,Brazil,Santa Catarina,22
+472,Romania,Judetul Iasi,22
+473,France,H?rault,22
+474,Italy,Catania,22
+475,Italy,Province of Pisa,22
+476,Switzerland,Bern,22
+477,Republic of Moldova,Gagauzia,22
+478,Bulgaria,Oblast Stara Zagora,22
+479,Spain,Cadiz,21
+480,Morocco,Agadir-Ida-ou-Tnan,21
+481,Armenia,Syunik Province,21
+482,Latvia,Ventspils,21
+483,Italy,Provincia di Treviso,21
+484,United States,Iowa,20
+485,Palestine,Gaza Strip,20
+486,Poland,?wi?tokrzyskie,20
+487,Austria,Upper Austria,20
+488,United Kingdom,Leicester,20
+489,Finland,Southwest Finland,20
+490,Morocco,Tanger-Assilah,20
+491,Austria,Vorarlberg,20
+492,United States,Hawaii,20
+493,Armenia,Shirak Province,20
+494,Cyprus,Larnaka,20
+495,Italy,Provincia di Perugia,20
+496,United Kingdom,Gloucestershire,20
+497,United Kingdom,Oxfordshire,20
+498,Italy,Provincia di Varese,20
+499,Morocco,Fes,20
+500,Bosnia and Herzegovina,Sarajevo Canton,20
+501,Republic of Moldova,Orhei,20
+502,Republic of Moldova,Str??eni,20
+503,Turkey,Bal?kesir,20
+504,Latvia,Ogre,20
+505,India,Goa,20
+506,Iraq,Muhafazat Arbil,20
+507,Kenya,Nairobi Province,20
+508,Republic of Moldova,S?ngerei,20
+509,Venezuela,M?rida,19
+510,Senegal,Dakar,19
+511,Italy,Provincia di Vicenza,19
+512,Venezuela,T?chira,19
+513,Benin,Littoral,19
+514,Bulgaria,Oblast Ruse,19
+515,India,Rajasthan,19
+516,Ecuador,Provincia del Guayas,19
+517,Thailand,Changwat Rayong,19
+518,Uzbekistan,Qashqadaryo,19
+519,Italy,Provincia di Bari,19
+520,Morocco,Rabat,19
+521,United Kingdom,Glasgow City,19
+522,Romania,Judetul Galati,19
+523,Republic of Korea,Busan,19
+524,United States,Oklahoma,19
+525,Australia,South Australia,19
+526,Myanmar [Burma],Yangon Region,19
+527,Japan,Kanagawa,19
+528,Austria,Styria,19
+529,France,Seine-et-Marne,19
+530,Georgia,Ajaria,18
+531,United Kingdom,West Sussex,18
+532,Italy,Provincia di Salerno,18
+533,United Kingdom,Warwickshire,18
+534,Spain,Biscay,18
+535,Japan,?saka,18
+536,Hungary,Pest megye,18
+537,Uruguay,Departamento de Montevideo,18
+538,Bulgaria,Oblast Khaskovo,18
+539,Belgium,Limburg Province,18
+540,Czech Republic,Okres Frydek-Mistek,17
+541,United States,District of Columbia,17
+542,United States,Louisiana,17
+543,United States,Kentucky,17
+544,Iran,Ostan-e Tehran,17
+545,United States,Alaska,17
+546,Portugal,Distrito de Leiria,17
+547,Sweden,?sterg?tland,17
+548,Turkey,Kocaeli,17
+549,Germany,Saarland,17
+550,United Kingdom,Aberdeen City,17
+551,Republic of Moldova,Ungheni,17
+552,Brazil,Federal District,17
+553,Spain,Asturias,17
+554,Austria,Lower Austria,17
+555,Romania,Judetul Ialomita,17
+556,Canada,Manitoba,17
+557,Argentina,Cordoba,17
+558,New Zealand,Wellington,16
+559,Italy,Province of Modena,16
+560,China,Gansu Sheng,16
+561,Sweden,V?sterbotten,16
+562,Italy,South Tyrol,16
+563,India,Andhra Pradesh,16
+564,Bulgaria,Oblast Veliko Turnovo,16
+565,Finland,Kymenlaakso,16
+566,Mexico,Jalisco,16
+567,Japan,Hy?go,16
+568,Portugal,Set?bal,16
+569,Norway,Hordaland Fylke,16
+570,Nepal,Bagmati Zone,16
+571,United States,Wyoming,16
+572,Norway,Rogaland Fylke,15
+573,Finland,Northern Ostrobothnia,15
+574,Denmark,North Denmark,15
+575,Norway,Akershus,15
+576,Latvia,Tukuma Rajons,15
+577,Estonia,L??ne-Virumaa,15
+578,Romania,Hunedoara,15
+579,Finland,South Karelia,15
+580,Maldives,Kaafu Atoll,15
+581,Czech Republic,Olomoucky kraj,15
+582,Romania,Ilfov,15
+583,Italy,Venice,15
+584,Switzerland,Saint Gallen,15
+585,Indonesia,West Kalimantan,15
+586,United States,Arkansas,15
+587,Brazil,Para,15
+588,United Kingdom,Reading,15
+589,Vietnam,Thanh Pho GJa Nang,15
+590,France,Val d'Oise,15
+591,Brazil,Maranhao,15
+592,United States,New Mexico,15
+593,Spain,Castellon,15
+594,Austria,Salzburg,15
+595,United Kingdom,Buckinghamshire,15
+596,Italy,Provincia di Reggio Emilia,14
+597,Brazil,Piaui,14
+598,Venezuela,Bol?var,14
+599,United Kingdom,Northamptonshire,14
+600,United Kingdom,Newcastle upon Tyne,14
+601,Denmark,Zealand,14
+602,United Kingdom,Leeds,14
+603,Sweden,Dalarna,14
+604,United States,New Hampshire,14
+605,Pakistan,Islamabad Capital Territory,14
+606,Tajikistan,Gorno-Badakhshan,14
+607,Bulgaria,Oblast Pleven,14
+608,United Kingdom,Lincolnshire,14
+609,China,Hainan,14
+610,Netherlands,Groningen,14
+611,Guatemala,Departamento de Guatemala,14
+612,Morocco,Oujda-Angad,14
+613,Italy,Province of Parma,14
+614,Italy,Provincia di Cagliari,14
+615,Czech Republic,Teplice District,14
+616,United Kingdom,Windsor and Maidenhead,14
+617,Italy,Province of Forl?-Cesena,14
+618,Switzerland,Zug,14
+619,Republic of Lithuania,Telsiu apskritis,14
+620,Romania,Judetul Brasov,14
+621,Algeria,Wilaya de Batna,14
+622,Spain,Cantabria,14
+623,United Kingdom,Edinburgh,14
+624,United Kingdom,Lancashire,14
+625,Philippines,Province of Tarlac,13
+626,France,Moselle,13
+627,Italy,Provincia di Pescara,13
+628,United Kingdom,Sheffield,13
+629,Armenia,Ararat Province,13
+630,United Kingdom,Suffolk,13
+631,Bulgaria,Oblast Dobrich,13
+632,Bolivia,Departamento de La Paz,13
+633,France,Loire-Atlantique,13
+634,Poland,Warmian-Masurian Voivodeship,13
+635,Czech Republic,South Moravian,13
+636,Italy,Provincia di Ancona,13
+637,Pakistan,Khyber Pakhtunkhwa,13
+638,Nicaragua,Departamento de Managua,13
+639,Czech Republic,Okres Ceske Budejovice,13
+640,Norway,Hedmark,13
+641,Bulgaria,Oblast Sliven,13
+642,Czech Republic,Zl?n District,13
+643,South Africa,KwaZulu-Natal,13
+644,Panama,Provincia de Panama,13
+645,Greece,Nomos Irakleiou,13
+646,Bulgaria,Oblast Shumen,13
+647,United States,Mississippi,13
+648,Afghanistan,Kabul,13
+649,Morocco,Meknes,13
+650,Albania,Qarku i Tiranes,12
+651,France,Upper Garonne,12
+652,Republic of Moldova,Raionul Edine?,12
+653,United Kingdom,Essex,12
+654,Estonia,P?rnumaa,12
+655,France,Var,12
+656,Vietnam,Thanh Pho Hai Phong,12
+657,Republic of Moldova,Raionul Dubasari,12
+658,France,Is?re,12
+659,Spain,Badajoz,12
+660,Seychelles,English River,12
+661,Turkey,Nigde,12
+662,Spain,A Coru?a,12
+663,Italy,Province of Messina,12
+664,Spain,Almeria,12
+665,Switzerland,Ticino,12
+666,Portugal,Aveiro,12
+667,Hungary,Zala,12
+668,United Kingdom,Southampton,12
+669,Italy,Provincia di Ravenna,12
+670,Switzerland,Aargau,12
+671,Russia,Chukotskiy Avtonomnyy Okrug,12
+672,United States,Montana,12
+673,Malaysia,Penang,12
+674,Norway,Vestfold,12
+675,Philippines,Province of Rizal,12
+676,Japan,Aichi,12
+677,Romania,Judetul Sibiu,12
+678,United Kingdom,Milton Keynes,12
+679,United Kingdom,Liverpool,12
+680,Latvia,Valmiera District,11
+681,Turkey,Hatay,11
+682,United States,Maine,11
+683,Egypt,Muhafazat ad Daqahliyah,11
+684,Iran,Ostan-e Hamadan,11
+685,Finland,P?ij?nne Tavastia,11
+686,Czech Republic,Moravskoslezsky kraj,11
+687,Italy,Province of Palermo,11
+688,Turkey,Gaziantep,11
+689,United Kingdom,Somerset,11
+690,Venezuela,Monagas,11
+691,Netherlands,Limburg,11
+692,Uzbekistan,Toshkent Viloyati,11
+693,Venezuela,Miranda,11
+694,Mexico,Veracruz,11
+695,Turkey,Kayseri,11
+696,Hong Kong,Kowloon City,11
+697,Portugal,Distrito de Braga,11
+698,Algeria,Wilaya d' Alger,11
+699,United Kingdom,Doncaster,11
+700,Ireland,County Limerick,11
+701,United Arab Emirates,Ajman,11
+702,Saudi Arabia,Eastern Province,11
+703,Italy,Provincia di Como,11
+704,Sweden,V?stmanland,11
+705,Thailand,Changwat Lampang,11
+706,Finland,Southern Savonia,11
+707,Canada,New Brunswick,11
+708,Romania,Arad,11
+709,Switzerland,Basel-City,11
+710,Romania,Suceava,11
+711,Italy,Provincia di Udine,11
+712,Taiwan,Taichung,11
+713,Tunisia,Gouvernorat de Tunis,11
+714,France,Seine-Maritime,10
+715,United States,Rhode Island,10
+716,Italy,Provincia di Lucca,10
+717,Norway,Buskerud,10
+718,United Kingdom,Belfast,10
+719,Sweden,?rebro,10
+720,Iraq,Anbar,10
+721,Sweden,Norrbotten,10
+722,Thailand,Changwat Ratchaburi,10
+723,United Kingdom,East Sussex,10
+724,Finland,Southern Finland,10
+725,Philippines,Central Visayas,10
+726,France,Haut-Rhin,10
+727,Italy,Provincia di Lecco,10
+728,Malta,Tas-Sliema,10
+729,Mexico,Estado de Baja California,10
+730,Thailand,Changwat Phitsanulok,10
+731,Taiwan,Taiwan,10
+732,Argentina,Santa Fe,10
+733,Philippines,Davao,10
+734,Italy,Provincia di Macerata,10
+735,Japan,Saitama,10
+736,Slovak Republic,Kosicky kraj,10
+737,Egypt,Muhafazat al Jizah,10
+738,Morocco,Nador,10
+739,Slovak Republic,Zilinsky kraj,10
+740,Republic of Moldova,H?nce?ti,10
+741,Romania,Bihor,10
+742,Montenegro,Opstina Niksic,10
+743,Bulgaria,Pernik,10
+744,New Zealand,Canterbury,10
+745,Romania,Constanta,9
+746,Brazil,Para?ba,9
+747,Algeria,Wilaya de Ouargla,9
+748,United States,Nebraska,9
+749,Jamaica,Kingston,9
+750,Botswana,South East District,9
+751,Switzerland,Valais,9
+752,Azerbaijan,Goychay Rayon,9
+753,Italy,Provincia di Pavia,9
+754,Thailand,Changwat Songkhla,9
+755,Bosnia and Herzegovina,Republika Srpska,9
+756,Czech Republic,Okres Ostrava-Mesto,9
+757,Switzerland,Lucerne,9
+758,Chile,Region de Valparaiso,9
+759,Slovak Republic,Nitriansky kraj,9
+760,Mauritius,Plaines Wilhems District,9
+761,Azerbaijan,Nakhichevan,9
+762,Latvia,Cesu Novads,9
+763,Brazil,Rio Grande do Norte,9
+764,Bulgaria,Pazardzhik,9
+765,Romania,Judetul Arges,9
+766,Bulgaria,Oblast Yambol,9
+767,Latvia,Jekabpils Municipality,9
+768,Turkey,Samsun,9
+769,Bulgaria,Oblast Vratsa,9
+770,Turkey,Tekirda?,9
+771,Nigeria,Niger State,9
+772,Spain,Pontevedra,9
+773,Poland,Lubusz,9
+774,Indonesia,South Sumatra,9
+775,Spain,Saragossa,9
+776,Italy,Provincia di Imperia,9
+777,France,Meurthe et Moselle,9
+778,Thailand,Changwat Pathum Thani,9
+779,Japan,Chiba,9
+780,Norway,Nordland Fylke,9
+781,Antigua and Barbuda,Parish of Saint John,9
+782,Indonesia,Riau Islands,9
+783,Netherlands,Provincie Zeeland,9
+784,Italy,Provincia di Chieti,9
+785,Thailand,Changwat Chachoengsao,8
+786,Philippines,Province of Cavite,8
+787,Spain,Valladolid,8
+788,Mexico,Estado de Mexico,8
+789,Switzerland,Fribourg,8
+790,Vietnam,Tinh Quang Nam,8
+791,Canada,Nova Scotia,8
+792,Algeria,Wilaya de Bechar,8
+793,Haiti,Departement de l'Ouest,8
+794,Vietnam,Tinh GJong Nai,8
+795,Spain,Cordoba,8
+796,Hungary,Borsod-Aba?j-Zempl?n,8
+797,Spain,Lleida,8
+798,Mexico,Sonora,8
+799,Japan,Fukuoka,8
+800,Norway,Finnmark Fylke,8
+801,Thailand,Changwat Chanthaburi,8
+802,United States,West Virginia,8
+803,Bulgaria,Oblast Silistra,8
+804,Norway,Vest-Agder Fylke,8
+805,Philippines,Province of Cebu,8
+806,Turkey,Ayd?n,8
+807,Republic of Korea,Gyeongsangnam-do,8
+808,Turkey,Manisa,8
+809,Romania,Prahova,8
+810,Azerbaijan,Absheron Rayon,8
+811,Romania,Judetul Valcea,8
+812,Italy,Provincia di Lecce,8
+813,United Kingdom,Coventry,8
+814,France,Savoy,8
+815,China,Shanxi Sheng,8
+816,Uganda,Kampala District,8
+817,Belgium,Walloon Brabant Province,8
+818,United Kingdom,Luton,8
+819,Republic of Moldova,Drochia,8
+820,Latvia,Ludzas Rajons,8
+821,Italy,Provincia di Caserta,8
+822,France,Maine-et-Loire,8
+823,Republic of Moldova,Raionul Calarasi,8
+824,Republic of Moldova,Raionul Stefan Voda,8
+825,Republic of Moldova,Rezina,8
+826,France,Loire,8
+827,China,Guizhou Sheng,8
+828,France,Puy-de-D?me,8
+829,Turkey,Siirt,7
+830,Algeria,Wilaya de Relizane,7
+831,Greece,Achaea,7
+832,Malaysia,Johor,7
+833,France,Oise,7
+834,Spain,Navarre,7
+835,Hungary,Szabolcs-Szatm?r-Bereg,7
+836,United Kingdom,Wolverhampton,7
+837,Turkey,Yalova,7
+838,Algeria,Oran,7
+839,Finland,North Karelia,7
+840,Hungary,Veszprem megye,7
+841,Morocco,Khouribga Province,7
+842,United Kingdom,Staffordshire,7
+843,Mexico,Sinaloa,7
+844,Australia,Australian Capital Territory,7
+845,Spain,La Rioja,7
+846,Morocco,Kenitra Province,7
+847,Hungary,Csongrad megye,7
+848,Finland,Northern Savo,7
+849,Brazil,Mato Grosso,7
+850,Slovenia,Koper,7
+851,Montenegro,Kotor,7
+852,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,7
+853,Brazil,Espirito Santo,7
+854,Republic of Moldova,Raionul Causeni,7
+855,France,Marne,7
+856,Vietnam,Tinh Ba Ria-Vung Tau,7
+857,United Kingdom,Peterborough,7
+858,Taiwan,Taoyuan,7
+859,Croatia,Splitsko-Dalmatinska Zupanija,7
+860,Croatia,Primorsko-Goranska Zupanija,7
+861,Bulgaria,Sofiya,7
+862,Venezuela,Anzo?tegui,7
+863,United Kingdom,Brighton and Hove,7
+864,Thailand,Changwat Khon Kaen,7
+865,United Kingdom,Worcestershire,7
+866,Malaysia,Negeri Sembilan,7
+867,India,Madhya Pradesh,7
+868,Indonesia,Provinsi Riau,7
+869,Kyrgyzstan,Osh Oblasty,7
+870,United States,Idaho,7
+871,Angola,Luanda Province,7
+872,Italy,Provincia di Prato,7
+873,Latvia,Ik??ile,7
+874,France,Ille-et-Vilaine,7
+875,United Kingdom,Leicestershire,7
+876,Morocco,Safi,7
+877,Morocco,Region de Tanger-Tetouan,7
+878,Poland,Opole Voivodeship,7
+879,Czech Republic,Chomutov District,7
+880,Romania,Judetul Salaj,7
+881,Japan,Shizuoka,7
+882,Iran,Razavi Khorasan,7
+883,India,Chandigarh,7
+884,Portugal,Madeira,7
+885,Republic of Moldova,Raionul Soroca,7
+886,Iraq,Basra Governorate,7
+887,Malta,Saint John,7
+888,United States,South Dakota,7
+889,Argentina,Entre Rios,7
+890,Bahrain,Manama,7
+891,India,Odisha,7
+892,France,Indre and Loire,7
+893,Mexico,Puebla,7
+894,Norway,More og Romsdal fylke,7
+895,Greece,Dodecanese,6
+896,Malaysia,Melaka,6
+897,France,Ain,6
+898,Italy,Provincia di Avellino,6
+899,Ecuador,Provincia de Manabi,6
+900,Italy,Province of Pordenone,6
+901,Latvia,Dobeles Rajons,6
+902,Mexico,Coahuila,6
+903,Italy,Provincia di Livorno,6
+904,Mexico,Guanajuato,6
+905,Iran,Ostan-e Ardabil,6
+906,Dominican Republic,Provincia de Monte Cristi,6
+907,Estonia,Raplamaa,6
+908,Mexico,Michoac?n,6
+909,Mexico,Tamaulipas,6
+910,Italy,Provincia di Catanzaro,6
+911,Hungary,Fej?r,6
+912,France,Cote d'Or,6
+913,France,C?tes-d'Armor,6
+914,Latvia,Salaspils Novads,6
+915,Malaysia,Kedah,6
+916,France,Morbihan,6
+917,Latvia,Olaine,6
+918,Malaysia,Perak,6
+919,Greece,Kavala,6
+920,Morocco,Region de Rabat-Sale-Zemmour-Zaer,6
+921,United Kingdom,Norfolk,6
+922,United Kingdom,Wiltshire,6
+923,United Kingdom,Warrington,6
+924,Romania,Maramure?,6
+925,Czech Republic,Hradec Kr?lov? District,6
+926,Norway,Sor-Trondelag Fylke,6
+927,United Kingdom,Cheshire,6
+928,Republic of Korea,Gwangju,6
+929,United Kingdom,Stockport,6
+930,United Kingdom,Slough,6
+931,Panama,Provincia de Los Santos,6
+932,Switzerland,Thurgau,6
+933,Republic of Korea,Daegu,6
+934,Turkey,Isparta,6
+935,United Kingdom,Kingston upon Hull,6
+936,Bulgaria,Oblast Montana,6
+937,Slovak Republic,Banskobystricky kraj,6
+938,Azerbaijan,Ganja City,6
+939,Cuba,Provincia de Camagueey,6
+940,Slovak Republic,Presovsky kraj,6
+941,China,Tibet Autonomous Region,6
+942,Turkey,Trabzon,6
+943,United Kingdom,Derby,6
+944,Tanzania,Dar es Salaam Region,6
+945,United Kingdom,Cardiff,6
+946,Bangladesh,Chittagong,6
+947,Brazil,Tocantins,6
+948,Chile,Los Lagos,6
+949,Philippines,Province of Laguna,6
+950,United Kingdom,York,6
+951,United Kingdom,Central Bedfordshire,6
+952,Algeria,Wilaya de Tizi Ouzou,6
+953,Brazil,Alagoas,6
+954,Spain,Toledo,6
+955,Sweden,G?vleborg,6
+956,Republic of Moldova,Taraclia,6
+957,Algeria,Wilaya de Chlef,6
+958,South Africa,Eastern Cape,6
+959,Republic of Moldova,Nisporeni,6
+960,Czech Republic,Okres Karlovy Vary,6
+961,Sweden,J?nk?ping,6
+962,Sweden,S?dermanland,6
+963,Thailand,Changwat Udon Thani,6
+964,Turkey,Artvin,6
+965,Spain,Burgos,6
+966,Sweden,Uppsala,6
+967,Romania,Judetul Timis,6
+968,Sweden,V?sternorrland,6
+969,United Kingdom,Bradford,5
+970,United Arab Emirates,Ra's al Khaymah,5
+971,Colombia,Departamento de Risaralda,5
+972,Italy,Provincia di Novara,5
+973,Colombia,Departamento de Santander,5
+974,Colombia,Departamento del Valle del Cauca,5
+975,Madagascar,Analamanga Region,5
+976,Italy,Provincia di Cosenza,5
+977,Latvia,Kuldigas Rajons,5
+978,France,Haute-Vienne,5
+979,Italy,Provincia di Cuneo,5
+980,Thailand,Changwat Samut Sakhon,5
+981,Finland,Satakunta,5
+982,Italy,Provincia di Ferrara,5
+983,Romania,Judetul Bacau,5
+984,Thailand,Changwat Trat,5
+985,Slovak Republic,Trnavsky kraj,5
+986,Turkey,Diyarbakir,5
+987,Italy,Pesaro and Urbino,5
+988,Rwanda,Kigali,5
+989,Thailand,Changwat Phetchaburi,5
+990,Italy,Provincia di Latina,5
+991,Latvia,M?rupe,5
+992,Republic of Korea,Daejeon,5
+993,Finland,Kainuu,5
+994,Republic of Moldova,Flore?ti,5
+995,Italy,Province of Fermo,5
+996,Turkey,??rnak,5
+997,Italy,Province of Ragusa,5
+998,Turkey,Malatya,5
+999,Estonia,Valgamaa,5
+1000,Latvia,?da?i,5
+1001,Italy,Province of Terni,5
+1002,Romania,Judetul Neamt,5
+1003,Republic of Korea,Gyeongsangbuk-do,5
+1004,United Kingdom,Devon,5
+1005,Ireland,County Galway,5
+1006,Venezuela,Falc?n,5
+1007,Argentina,Provincia de Tucuman,5
+1008,United Kingdom,Stockton-on-Tees,5
+1009,India,State of Himachal Pradesh,5
+1010,Norway,Telemark,5
+1011,United Kingdom,Stoke-on-Trent,5
+1012,Norway,?stfold,5
+1013,Andorra,Andorra la Vella,5
+1014,Mexico,Yucat?n,5
+1015,India,Assam,5
+1016,Czech Republic,Most District,5
+1017,Sweden,Kronoberg,5
+1018,Georgia,Samtskhe-Javakheti,5
+1019,Montenegro,Herceg Novi,5
+1020,Hungary,Baranya,5
+1021,France,Calvados,5
+1022,Sweden,J?mtland,5
+1023,Sweden,Halland,5
+1024,France,Charente-Maritime,5
+1025,Netherlands,Friesland,5
+1026,Czech Republic,Okres Pardubice,5
+1027,Albania,Qarku i Fierit,5
+1028,Japan,Hokkaido,5
+1029,Italy,Provincia di Trieste,5
+1030,Burkina Faso,Kadiogo Province,5
+1031,Azerbaijan,Imishli Rayon,5
+1032,Cambodia,Preah Sihanouk,5
+1033,Canada,Saskatchewan,5
+1034,France,Tarn,5
+1035,Egypt,Muhafazat al Gharbiyah,5
+1036,Malta,Il-Mosta,5
+1037,Georgia,Samegrelo and Zemo Svaneti,5
+1038,Egypt,Beheira Governorate,5
+1039,France,Vaucluse,5
+1040,Iran,Ostan-e Kordestan,5
+1041,Romania,Judetul Buzau,5
+1042,Italy,Provincia di Taranto,5
+1043,Gabon,Estuaire,5
+1044,Georgia,Imereti,5
+1045,Georgia,Kvemo Kartli,5
+1046,Austria,Carinthia,5
+1047,Italy,Provincia di Rieti,4
+1048,Thailand,Changwat Narathiwat,4
+1049,Thailand,Changwat Sukhothai,4
+1050,Spain,Ourense,4
+1051,France,Eure,4
+1052,Italy,Provincia di Potenza,4
+1053,Bulgaria,Oblast Smolyan,4
+1054,Thailand,Changwat Krabi,4
+1055,Brazil,Sergipe,4
+1056,Switzerland,Solothurn,4
+1057,Italy,Provincia di Gorizia,4
+1058,Italy,Provincia di Olbia-Tempio,4
+1059,Bulgaria,Gabrovo,4
+1060,Bulgaria,Lovech,4
+1061,Czech Republic,Plzensky kraj,4
+1062,Bulgaria,Oblast Razgrad,4
+1063,Thailand,Changwat Phayao,4
+1064,Turkey,U?ak,4
+1065,Italy,Provincia di Frosinone,4
+1066,Hungary,Gy?r-Moson-Sopron,4
+1067,Indonesia,West Nusa Tenggara,4
+1068,United Kingdom,North Yorkshire,4
+1069,United Kingdom,Portsmouth,4
+1070,United Kingdom,Sandwell,4
+1071,Argentina,Provincia de La Rioja,4
+1072,United States,North Dakota,4
+1073,India,Bihar,4
+1074,Uzbekistan,Samarqand Viloyati,4
+1075,Algeria,Wilaya de Tiaret,4
+1076,Venezuela,Barinas,4
+1077,Hungary,Vas,4
+1078,Venezuela,Nueva Esparta,4
+1079,Brazil,Mato Grosso do Sul,4
+1080,Venezuela,Portuguesa,4
+1081,Hungary,B?cs-Kiskun,4
+1082,Honduras,Departamento de Cortes,4
+1083,Vietnam,Tinh Binh Thuan,4
+1084,Algeria,Wilaya de Blida,4
+1085,Vietnam,Tinh Ha Tinh,4
+1086,Guyana,Demerara-Mahaica Region,4
+1087,Albania,Rrethi i Shkodres,4
+1088,Vietnam,Tinh Thua Thien-Hue,4
+1089,Greece,Rethymno,4
+1090,Greece,Nomos Kerkyras,4
+1091,France,Vienne,4
+1092,United Kingdom,Fife,4
+1093,United Kingdom,Dundee City,4
+1094,United Kingdom,Dudley,4
+1095,Brazil,Amazonas,4
+1096,Italy,Provincia di Biella,4
+1097,Turkey,Afyonkarahisar,4
+1098,Italy,Provincia di Asti,4
+1099,Italy,Province of Siena,4
+1100,Turkey,Erzurum,4
+1101,Turkey,Eski?ehir,4
+1102,Turkey,Kahramanmara?,4
+1103,Turkey,Karaman,4
+1104,Turkey,Kastamonu,4
+1105,Turkey,Nevsehir,4
+1106,France,Dr?me,4
+1107,United Kingdom,Bedford,4
+1108,United Kingdom,Blackpool,4
+1109,United Kingdom,Bolton,4
+1110,United Kingdom,Bournemouth,4
+1111,France,Pas-de-Calais,4
+1112,France,Pyr?n?es-Atlantiques,4
+1113,Ireland,County Cork,4
+1114,Barbados,Saint Michael,4
+1115,Ireland,Co Kildare,4
+1116,United Kingdom,Cumbria,4
+1117,United Kingdom,Derbyshire,4
+1118,Spain,Leon,4
+1119,?land,Mariehamn,4
+1120,Romania,Judetul Dambovita,4
+1121,Cambodia,Kampong Thom,4
+1122,Finland,Lapland,4
+1123,Czech Republic,Nov? Ji??n District,4
+1124,Paraguay,Asuncion,4
+1125,Czech Republic,Liberec District,4
+1126,Republic of Korea,Ulsan,4
+1127,Slovenia,Kranj,4
+1128,Czech Republic,Kraj Vysocina,4
+1129,Philippines,Calabarzon,4
+1130,Republic of Lithuania,Alytaus apskritis,4
+1131,Cyprus,Keryneia,4
+1132,Mexico,Quer?taro,4
+1133,Norway,Nord-Trondelag Fylke,4
+1134,Norway,Sogn og Fjordane Fylke,4
+1135,Romania,Tulcea,4
+1136,Oman,Muhafazat Masqat,4
+1137,Dominican Republic,Provincia de La Altagracia,4
+1138,Panama,Provincia de Veraguas,4
+1139,Republic of Moldova,Basarabeasca,4
+1140,Latvia,Preili Municipality,4
+1141,Mexico,Chiapas,4
+1142,Republic of Moldova,Telene?ti,4
+1143,Republic of Moldova,Cimi?lia,4
+1144,Latvia,Kraslavas Rajons,4
+1145,Latvia,L?v?ni,4
+1146,Dominican Republic,Provincia de Santiago,4
+1147,Croatia,Istarska Zupanija,4
+1148,Egypt,Muhafazat Asyut,4
+1149,Mauritius,Port Louis District,4
+1150,Malaysia,Sarawak,4
+1151,Philippines,Quezon,4
+1152,Czech Republic,Okres Plzen-Mesto,4
+1153,Czech Republic,Uhersk? Hradi?t? District,4
+1154,Netherlands,Provincie Drenthe,4
+1155,Spain,Gipuzkoa,4
+1156,Spain,Ciudad Real,4
+1157,Malaysia,Sabah,4
+1158,Spain,Araba / ?lava,4
+1159,Philippines,Soccsksargen,4
+1160,Japan,Kyoto,4
+1161,Philippines,Province of Capiz,4
+1162,Japan,Toyama,4
+1163,Libya,Tripoli,4
+1164,Spain,Huesca,4
+1165,Czech Republic,Olomouc District,4
+1166,Japan,Yamagata,4
+1167,Republic of Korea,Chungcheongbuk-do,4
+1168,Ecuador,Provincia del Azuay,3
+1169,Egypt,Red Sea,3
+1170,United Kingdom,Kirklees,3
+1171,United Kingdom,Caerphilly County Borough,3
+1172,Peru,Cusco,3
+1173,Czech Republic,Beroun District,3
+1174,United Kingdom,Herefordshire,3
+1175,United Kingdom,Londonderry,3
+1176,Estonia,L??ne,3
+1177,Bahamas,New Providence District,3
+1178,Iran,Fars,3
+1179,United Kingdom,Hartlepool,3
+1180,France,Somme,3
+1181,France,Deux-S?vres,3
+1182,United Kingdom,Halton,3
+1183,France,Vend?e,3
+1184,France,Sarthe,3
+1185,Malta,L-Imsida,3
+1186,Egypt,As Suways,3
+1187,Malta,In-Naxxar,3
+1188,Philippines,Province of Batangas,3
+1189,Croatia,Zadarska Zupanija,3
+1190,Ireland,Cavan,3
+1191,Philippines,Province of South Cotabato,3
+1192,France,Doubs,3
+1193,United Kingdom,North Lanarkshire,3
+1194,Vietnam,Thanh Pho Can Tho,3
+1195,Venezuela,Gu?rico,3
+1196,Hungary,Hajd?-Bihar,3
+1197,New Zealand,Manawatu-Wanganui,3
+1198,Venezuela,Yaracuy,3
+1199,New Zealand,Hawke's Bay,3
+1200,Czech Republic,Vset?n District,3
+1201,Vietnam,Gia Lai,3
+1202,Honduras,Departamento de Francisco Morazan,3
+1203,Algeria,Wilaya de Constantine,3
+1204,Austria,Burgenland,3
+1205,Czech Republic,Ustecky kraj,3
+1206,Morocco,Benslimane,3
+1207,Vietnam,Tinh Nghe An,3
+1208,Myanmar [Burma],Kayin State,3
+1209,Vietnam,Tinh Thanh Hoa,3
+1210,Mozambique,Cidade de Maputo,3
+1211,Greece,Nomos Larisis,3
+1212,Yemen,Sanaa,3
+1213,Hungary,Kom?rom-Esztergom,3
+1214,Hungary,Nograd megye,3
+1215,Venezuela,Estado Trujillo,3
+1216,Mongolia,Orhon Aymag,3
+1217,Mexico,Chihuahua,3
+1218,Indonesia,East Kalimantan,3
+1219,United Kingdom,Plymouth,3
+1220,Mexico,Colima,3
+1221,United Kingdom,Rotherham,3
+1222,Indonesia,Banten,3
+1223,Colombia,Atl?ntico,3
+1224,Pakistan,Azad Kashmir,3
+1225,Norway,Troms Fylke,3
+1226,United Kingdom,Wakefield,3
+1227,Andorra,Escaldes-Engordany,3
+1228,Czech Republic,Jihocesky kraj,3
+1229,Nigeria,Rivers State,3
+1230,Nigeria,Oyo State,3
+1231,Uzbekistan,Andijan,3
+1232,Mexico,Zacatecas,3
+1233,Algeria,Wilaya de Setif,3
+1234,United Kingdom,Bath and North East Somerset,3
+1235,Costa Rica,Provincia de Heredia,3
+1236,Italy,Ascoli Piceno,3
+1237,Italy,Provincia di Barletta - Andria - Trani,3
+1238,Brazil,Rondonia,3
+1239,Italy,Provincia di Nuoro,3
+1240,Chile,Region del Biobio,3
+1241,Kyrgyzstan,Chuyskaya Oblast',3
+1242,Romania,Vrancea,3
+1243,Thailand,Changwat Phra Nakhon Si Ayutthaya,3
+1244,Thailand,Changwat Phrae,3
+1245,Laos,Vientiane,3
+1246,Turkey,Zonguldak,3
+1247,Latvia,Bauskas Novads,3
+1248,Thailand,Changwat Surin,3
+1249,Thailand,Changwat Trang,3
+1250,Romania,Judetul Calarasi,3
+1251,Romania,Judetul Braila,3
+1252,Romania,Judetul Botosani,3
+1253,Romania,Judetul Alba,3
+1254,Republic of Moldova,Raionul Ocni?a,3
+1255,Brazil,Ceara,3
+1256,Republic of Moldova,Criuleni,3
+1257,Turkey,?orum,3
+1258,Republic of Moldova,Cantemir,3
+1259,Slovenia,Izola,3
+1260,Thailand,Changwat Chumphon,3
+1261,Chile,Region de Los Rios,3
+1262,Sweden,Kalmar,3
+1263,Japan,Hiroshima,3
+1264,Spain,Jaen,3
+1265,France,Eure-et-Loir,3
+1266,France,Finist?re,3
+1267,France,Cher,3
+1268,Japan,Miyagi,3
+1269,Japan,Nagasaki,3
+1270,France,Charente,3
+1271,Spain,Huelva,3
+1272,Sweden,V?rmland,3
+1273,Italy,Provincia di Reggio Calabria,3
+1274,Japan,Tochigi,3
+1275,Switzerland,Schaffhausen,3
+1276,Italy,Provincia di Vercelli,3
+1277,France,Allier,3
+1278,Cambodia,Kandal,3
+1279,Italy,Provincia di Savona,3
+1280,Bulgaria,Oblast Kurdzhali,3
+1281,Cameroon,Centre,3
+1282,Slovenia,Obcina Domzale,3
+1283,Bolivia,El Beni,3
+1284,Bulgaria,Oblast Kyustendil,3
+1285,Turkey,Bart?n,3
+1286,France,Manche,3
+1287,Italy,Province of Mantua,3
+1288,Turkey,K?tahya,3
+1289,Belize,Belize District,3
+1290,Liechtenstein,Vaduz,3
+1291,Fiji,Central,3
+1292,Republic of Korea,Chungcheongnam-do,3
+1293,Turkey,Giresun,3
+1294,France,Ni?vre,3
+1295,Italy,Province of Arezzo,3
+1296,Macedonia,Kavadarci,3
+1297,Turkey,Rize,3
+1298,Turkey,Edirne,3
+1299,Republic of Korea,Gangwon-do,3
+1300,Latvia,Siguldas Novads,3
+1301,Belgium,Namur Province,3
+1302,Republic of Moldova,Anenii Noi,3
+1303,Macedonia,Kumanovo,3
+1304,Portugal,Distrito de Santarem,3
+1305,Turkey,Batman,3
+1306,Turkey,Denizli,3
+1307,France,Loiret,3
+1308,Albania,Qarku i Vlores,2
+1309,Greece,Euboea,2
+1310,Albania,Qarku i Dibres,2
+1311,Algeria,Wilaya de Laghouat,2
+1312,Bulgaria,Oblast Vidin,2
+1313,Algeria,Wilaya de Mascara,2
+1314,Czech Republic,Zl?n,2
+1315,France,Haute-Loire,2
+1316,Greece,Chania,2
+1317,Czech Republic,Okres Jihlava,2
+1318,Faroe Islands,Streymoy,2
+1319,Estonia,J?gevamaa,2
+1320,France,Ari?ge,2
+1321,Algeria,Wilaya de Djelfa,2
+1322,France,Sa?ne-et-Loire,2
+1323,Croatia,Dubrovacko-Neretvanska Zupanija,2
+1324,Czech Republic,Okres Karvina,2
+1325,Estonia,Viljandimaa,2
+1326,France,Aude,2
+1327,Costa Rica,Provincia de Alajuela,2
+1328,Czech Republic,Okres Usti nad Labem,2
+1329,Cameroon,Littoral,2
+1330,France,Gard,2
+1331,Algeria,Wilaya de Bejaia,2
+1332,El Salvador,Departamento de San Salvador,2
+1333,Algeria,Annaba,2
+1334,Egypt,Muhafazat al Qalyubiyah,2
+1335,Czech Republic,Svitavy District,2
+1336,Bahrain,Southern Governorate,2
+1337,Brunei,Brunei and Muara District,2
+1338,Cameroon,North-West Region,2
+1339,Ecuador,Provincia del Tungurahua,2
+1340,Argentina,Provincia de Misiones,2
+1341,Argentina,Provincia de San Luis,2
+1342,Bermuda,Hamilton city,2
+1343,Armenia,Aragatsotn Province,2
+1344,Azerbaijan,Masally,2
+1345,Armenia,Gegharkunik Province,2
+1346,Czech Republic,Chrudim District,2
+1347,France,Jura,2
+1348,Azerbaijan,Mingacevir City,2
+1349,France,Landes,2
+1350,France,Vosges,2
+1351,France,Yonne,2
+1352,China,Ningxia Huizu Zizhiqu,2
+1353,France,Loir-et-Cher,2
+1354,Bolivia,Departamento de Santa Cruz,2
+1355,French Polynesia,Iles du Vent,2
+1356,Egypt,Muhafazat Suhaj,2
+1357,Finland,Haeme,2
+1358,Czech Republic,Znojmo District,2
+1359,France,South Corsica,2
+1360,Czech Republic,Mlad? Boleslav District,2
+1361,Czech Republic,Bene?ov District,2
+1362,Algeria,Wilaya de Tipaza,2
+1363,Cape Verde,Concelho de Sao Domingos,2
+1364,Czech Republic,Kralovehradecky kraj,2
+1365,France,Hautes-Pyr?n?es,2
+1366,Chile,Region de Magallanes y de la Antartica Chilena,2
+1367,Egypt,Muhafazat al Minya,2
+1368,Egypt,Muhafazat al Fayyum,2
+1369,Czech Republic,Jablonec nad Nisou District,2
+1370,Chile,Region de la Araucania,2
+1371,Azerbaijan,Qusar Rayon,2
+1372,Argentina,Chubut,2
+1373,Argentina,Corrientes,2
+1374,Argentina,Mendoza,2
+1375,Croatia,Osjecko-Baranjska Zupanija,2
+1376,Czech Republic,D???n District,2
+1377,Zimbabwe,Harare,2
+1378,Romania,Harghita,2
+1379,South Africa,Province of North West,2
+1380,United Kingdom,Flintshire,2
+1381,Spain,Albacete,2
+1382,United Kingdom,East Riding of Yorkshire,2
+1383,Pakistan,Balochistan,2
+1384,Norway,Oppland,2
+1385,United Kingdom,Dorset,2
+1386,United Kingdom,Denbighshire,2
+1387,Latvia,Saldus Municipality,2
+1388,Latvia,Talsi Municipality,2
+1389,United Kingdom,County Borough of Bridgend,2
+1390,Spain,Guadalajara,2
+1391,United Kingdom,City of Newport,2
+1392,United Kingdom,City of London,2
+1393,United Kingdom,City and County of Swansea,2
+1394,Spain,Lugo,2
+1395,Luxembourg,District de Grevenmacher,2
+1396,United Kingdom,Cheshire East,2
+1397,Spain,Soria,2
+1398,Macedonia,Bitola,2
+1399,Kosovo,Komuna e Drenasit,2
+1400,United Kingdom,Gwynedd,2
+1401,Macedonia,Gevgelija,2
+1402,South Africa,Limpopo,2
+1403,Italy,Provincia di Pistoia,2
+1404,Italy,Provincia di Sassari,2
+1405,Italy,Provincia di Teramo,2
+1406,Italy,Provincia di Viterbo,2
+1407,Italy,Syracuse,2
+1408,Italy,Verbania,2
+1409,Japan,Fukui,2
+1410,Japan,Ibaraki,2
+1411,Slovenia,Piran,2
+1412,Slovenia,Radovljica,2
+1413,Peru,Ica,2
+1414,United Kingdom,North Down,2
+1415,Japan,Nara,2
+1416,Japan,Niigata,2
+1417,Peru,Arequipa,2
+1418,United Kingdom,Middlesbrough,2
+1419,Japan,Wakayama,2
+1420,Slovenia,Trzin,2
+1421,Japan,Yamaguchi,2
+1422,Sudan,Khartoum,2
+1423,Switzerland,Basel-Landschaft,2
+1424,Italy,Provincia di Oristano,2
+1425,Malta,Saint Paul?s Bay,2
+1426,Turkey,?anakkale,2
+1427,Morocco,Tetouan,2
+1428,Mexico,Baja California Sur,2
+1429,Tanzania,Zanzibar Urban/West,2
+1430,Thailand,Changwat Chaiyaphum,2
+1431,Thailand,Changwat Chiang Rai,2
+1432,Thailand,Changwat Yala,2
+1433,Mexico,Morelos,2
+1434,Thailand,Changwat Uttaradit,2
+1435,Zambia,North-Western Province,2
+1436,Thailand,Changwat Ubon Ratchathani,2
+1437,Thailand,Changwat Kanchanaburi,2
+1438,Thailand,Changwat Samut Prakan,2
+1439,Thailand,Changwat Nakhon Pathom,2
+1440,Thailand,Changwat Prachuap Khiri Khan,2
+1441,Thailand,Changwat Phetchabun,2
+1442,Montenegro,Tivat,2
+1443,Morocco,Beni-Mellal,2
+1444,Morocco,El-Jadida,2
+1445,Taiwan,Tainan,2
+1446,Namibia,Khomas,2
+1447,Romania,Judetul Bistrita-Nasaud,2
+1448,Malta,Paola,2
+1449,Niger,Niamey,2
+1450,United Kingdom,Antrim,2
+1451,Macedonia,Prilep,2
+1452,United Kingdom,Aberdeenshire,2
+1453,Turkey,Yozgat,2
+1454,New Zealand,Waikato,2
+1455,Turkey,Sinop,2
+1456,Turkey,Ordu,2
+1457,Turkey,Karabuek,2
+1458,Malta,Haz-Zabbar,2
+1459,Malta,Il-Gzira,2
+1460,Malta,Il-Marsa,2
+1461,Turkey,Erzincan,2
+1462,New Zealand,Bay of Plenty,2
+1463,Turkey,Duezce,2
+1464,Taiwan,Hsinchu,2
+1465,Malta,Iz-Zejtun,2
+1466,Nepal,Lumbini Zone,2
+1467,Malta,Marsaskala,2
+1468,United Kingdom,Perth and Kinross,2
+1469,Japan,Gunma,2
+1470,Vietnam,Tinh Hai Duong,2
+1471,Guinea,Conakry Region,2
+1472,United Kingdom,West Lothian,2
+1473,United Kingdom,West Berkshire,2
+1474,Slovenia,Celje,2
+1475,Vietnam,Tinh Binh Duong,2
+1476,Vietnam,Tinh Binh GJinh,2
+1477,Iraq,An Najaf,2
+1478,United Kingdom,Torbay,2
+1479,United Kingdom,The Scottish Borders,2
+1480,Iraq,Maysan,2
+1481,United Kingdom,Swindon,2
+1482,Philippines,Province of La Union,2
+1483,Romania,Satu Mare,2
+1484,United Kingdom,Sunderland,2
+1485,Philippines,Province of Albay,2
+1486,Ireland,Co Meath,2
+1487,Slovak Republic,Trenciansky kraj,2
+1488,Republic of Korea,Jeju-do,2
+1489,United Kingdom,Poole,2
+1490,Portugal,Distrito de Evora,2
+1491,India,Uttarakhand,2
+1492,Portugal,Distrito de Viseu,2
+1493,India,State of Jharkhand,2
+1494,India,State of Chhattisgarh,2
+1495,Vanuatu,Shefa Province,2
+1496,Puerto Rico,San Juan,2
+1497,Portugal,Distrito de Coimbra,2
+1498,Venezuela,Vargas,2
+1499,United Kingdom,Wrexham,2
+1500,Iran,East Azerbaijan,2
+1501,Portugal,Azores,2
+1502,India,Kashmir,2
+1503,Iran,Khuzestan,2
+1504,Venezuela,Sucre,2
+1505,United Kingdom,St. Helens,2
+1506,Indonesia,Central Sulawesi,2
+1507,Republic of Moldova,Dondu?eni,2
+1508,Italy,Provincia di Benevento,2
+1509,Vietnam,Tinh Thai Binh,2
+1510,Italy,Provincia di Alessandria,2
+1511,Greece,Nomos Kykladon,2
+1512,Republic of Moldova,Leova,2
+1513,Italy,Province of Vibo Valentia,2
+1514,Slovenia,Nova Gorica,2
+1515,Italy,Provincia di Cremona,2
+1516,Italy,Province of Sondrio,2
+1517,Italy,Provincia di Foggia,2
+1518,Italy,Province of Medio Campidano,2
+1519,United Kingdom,Salford,2
+1520,Republic of Moldova,?old?ne?ti,2
+1521,Romania,Judetul Mures,2
+1522,Republic of the Congo,Commune de Brazzaville,2
+1523,Republic of Lithuania,Taurages apskritis,2
+1524,Italy,Province of L'Aquila,2
+1525,United Kingdom,Solihull,2
+1526,Greece,Xanthi,2
+1527,Italy,Province of Brindisi,2
+1528,Italy,Province of Belluno,2
+1529,Vietnam,Tinh Lam GJong,2
+1530,Italy,Province of Agrigento,2
+1531,Ireland,Leinster,2
+1532,Vietnam,Tinh Kien Giang,2
+1533,Vietnam,Tinh Hung Yen,2
+1534,Zambia,Lusaka Province,2
+1535,Italy,Provincia di La Spezia,2
+1536,Syria,Latakia Governorate,1
+1537,Thailand,Changwat Nakhon Ratchasima,1
+1538,Romania,Judetul Mehedinti,1
+1539,Tanzania,Arusha,1
+1540,Taiwan,Hualien,1
+1541,Taiwan,Miaoli,1
+1542,Romania,Olt,1
+1543,Thailand,Changwat Buriram,1
+1544,Samoa,Atua,1
+1545,Romania,Teleorman,1
+1546,Tajikistan,Viloyati Khatlon,1
+1547,Switzerland,Schwyz,1
+1548,Brunei,Belait District,1
+1549,Slovenia,Obcina Ivancna Gorica,1
+1550,Suriname,Distrikt Paramaribo,1
+1551,San Marino,Castello di San Marino Citta,1
+1552,Slovenia,Mestna Obcina Novo mesto,1
+1553,Slovenia,Maribor,1
+1554,Slovenia,Markovci,1
+1555,Somalia,Banaadir,1
+1556,Slovenia,Trbovlje,1
+1557,Slovenia,Slovenske Konjice,1
+1558,Slovenia,Medvode,1
+1559,Slovenia,Slovenska Bistrica,1
+1560,Thailand,Changwat Nan,1
+1561,Slovenia,Lendava,1
+1562,Cameroon,North Region,1
+1563,Slovenia,Obcina Zrece,1
+1564,Cameroon,South-West Region,1
+1565,Canada,Newfoundland and Labrador,1
+1566,Slovenia,Obcina Turnisce,1
+1567,Slovenia,Obcina Trzic,1
+1568,Slovenia,Obcina Brezice,1
+1569,Chile,Coquimbo,1
+1570,Chile,Maule,1
+1571,Switzerland,Neuch?tel,1
+1572,Svalbard and Jan Mayen,Svalbard,1
+1573,Switzerland,Jura,1
+1574,Saudi Arabia,Al Madinah al Munawwarah,1
+1575,Switzerland,Grisons,1
+1576,Saudi Arabia,Mintaqat Ha'il,1
+1577,Saudi Arabia,Mintaqat al Bahah,1
+1578,Sierra Leone,Western Area,1
+1579,Sweden,Gotland,1
+1580,Singapore,Central Singapore Community Development Council,1
+1581,Slovenia,Kamnik,1
+1582,Spain,Salamanca,1
+1583,Spain,Palencia,1
+1584,Slovenia,Cerkno,1
+1585,Slovenia,Gornja Radgona,1
+1586,Slovenia,Jesenice,1
+1587,Spain,Cuenca,1
+1588,Spain,Caceres,1
+1589,Thailand,Changwat Nakhon Sawan,1
+1590,Greece,Messenia,1
+1591,Thailand,Changwat Pattani,1
+1592,Argentina,Tierra del Fuego,1
+1593,Argentina,Chaco,1
+1594,United Kingdom,Torfaen County Borough,1
+1595,United Kingdom,Telford and Wrekin,1
+1596,Argentina,Provincia de Jujuy,1
+1597,United Kingdom,Stirling,1
+1598,United Kingdom,South Tyneside,1
+1599,Argentina,Rio Negro,1
+1600,Argentina,Salta,1
+1601,United Kingdom,South Ayrshire,1
+1602,Argentina,Santiago del Estero,1
+1603,United Kingdom,Shropshire,1
+1604,Thailand,Changwat Phatthalung,1
+1605,United Kingdom,Rochdale,1
+1606,United Kingdom,Rhondda Cynon Taf,1
+1607,United Kingdom,Renfrewshire,1
+1608,United Kingdom,Powys,1
+1609,Armenia,Tavush Province,1
+1610,United Kingdom,Pembrokeshire,1
+1611,United Kingdom,Oldham,1
+1612,Australia,Northern Territory,1
+1613,United Kingdom,Nottinghamshire,1
+1614,United Kingdom,Northumberland,1
+1615,United Kingdom,Trafford,1
+1616,United Kingdom,Western Isles,1
+1617,Angola,Cabinda,1
+1618,Andorra,La Massana,1
+1619,Vietnam,Tinh Tra Vinh,1
+1620,Albania,Qarku i Durresit,1
+1621,Vietnam,Tinh Thai Nguyen,1
+1622,Vietnam,Tinh Soc Trang,1
+1623,Vietnam,Tinh Quang Ngai,1
+1624,Vietnam,Tinh Quang Binh,1
+1625,Algeria,El Oued,1
+1626,Vietnam,Tinh Nam GJinh,1
+1627,Vietnam,Tinh GJak Lak,1
+1628,Vietnam,Kon Tum,1
+1629,Algeria,Wilaya de Guelma,1
+1630,Vietnam,An Giang,1
+1631,Venezuela,Cojedes,1
+1632,Algeria,Wilaya de Saida,1
+1633,Venezuela,Apure,1
+1634,Algeria,Wilaya de Tamanrasset,1
+1635,Uzbekistan,Fergana,1
+1636,United States,Vermont,1
+1637,American Samoa,Eastern District,1
+1638,Andorra,Canillo,1
+1639,United Kingdom,Wokingham,1
+1640,Australia,Tasmania,1
+1641,United Kingdom,North Tyneside,1
+1642,United Kingdom,North Somerset,1
+1643,Turkey,Van,1
+1644,Turkey,K?r?kkale,1
+1645,Turkey,K?r?ehir,1
+1646,Belize,Cayo District,1
+1647,Turkey,Elaz??,1
+1648,Bolivia,Departamento de Cochabamba,1
+1649,Turkey,Bilecik,1
+1650,Bolivia,Departamento de Tarija,1
+1651,Turkey,Amasya,1
+1652,Bosnia and Herzegovina,Canton 10,1
+1653,Turkey,Aksaray,1
+1654,Turkey,?anl?urfa,1
+1655,Tunisia,Tataouine,1
+1656,Tunisia,Gouvernorat de Ben Arous,1
+1657,Trinidad and Tobago,Siparia,1
+1658,Trinidad and Tobago,San Juan/Laventille,1
+1659,Trinidad and Tobago,City of San Fernando,1
+1660,Trinidad and Tobago,City of Port of Spain,1
+1661,Trinidad and Tobago,Borough of Arima,1
+1662,Tonga,Vava'u,1
+1663,Thailand,Changwat Satun,1
+1664,Thailand,Changwat Ranong,1
+1665,Belgium,Luxembourg Province,1
+1666,United Kingdom,Argyll and Bute,1
+1667,United Kingdom,North Lincolnshire,1
+1668,United Kingdom,Blackburn with Darwen,1
+1669,United Kingdom,Neath Port Talbot,1
+1670,United Kingdom,Monmouthshire,1
+1671,United Kingdom,Medway,1
+1672,United Kingdom,Lisburn,1
+1673,United Kingdom,Inverclyde,1
+1674,United Kingdom,Highland,1
+1675,United Kingdom,Gateshead,1
+1676,United Kingdom,Falkirk,1
+1677,Azerbaijan,Khachmaz Rayon,1
+1678,United Kingdom,Durham,1
+1679,United Kingdom,Down,1
+1680,United Kingdom,Darlington,1
+1681,United Kingdom,Cornwall,1
+1682,Bangladesh,Khulna Division,1
+1683,Bangladesh,Rajshahi Division,1
+1684,Bangladesh,Rangpur Division,1
+1685,United Kingdom,Ceredigion,1
+1686,United Kingdom,Carrickfergus,1
+1687,United Kingdom,Calderdale,1
+1688,United Kingdom,Bracknell Forest,1
+1689,United Kingdom,Blaenau Gwent,1
+1690,United Kingdom,Barnsley,1
+1691,Philippines,Bicol,1
+1692,Romania,Giurgiu,1
+1693,Kenya,Kajiado District,1
+1694,Japan,Yamanashi,1
+1695,France,Ard?che,1
+1696,France,Ardennes,1
+1697,Japan,Shiga Prefecture,1
+1698,Japan,Saga Prefecture,1
+1699,Japan,Okinawa,1
+1700,Japan,Okayama,1
+1701,Japan,Nagano,1
+1702,Japan,Mie,1
+1703,Japan,Kumamoto,1
+1704,Japan,Kagoshima,1
+1705,Japan,Ishikawa,1
+1706,Japan,Gifu,1
+1707,Japan,Aomori,1
+1708,Jamaica,Parish of Saint James,1
+1709,France,Haute-Marne,1
+1710,France,Haute-Sa?ne,1
+1711,Italy,Provincia di Piacenza,1
+1712,Italy,Provincia di Lodi,1
+1713,France,Indre,1
+1714,Italy,Provincia di Isernia,1
+1715,Italy,Provincia di Campobasso,1
+1716,France,Lot-et-Garonne,1
+1717,Italy,Province of Trapani,1
+1718,Italy,Province of Massa-Carrara,1
+1719,France,Aisne,1
+1720,Kyrgyzstan,Issyk-Kul'skaya Oblast',1
+1721,Romania,Covasna,1
+1722,Latvia,?ekava,1
+1723,Estonia,J?rvamaa,1
+1724,Macedonia,Opstina Stip,1
+1725,Macedonia,Opstina Probistip,1
+1726,Estonia,P?lvamaa,1
+1727,Macedonia,Ohrid,1
+1728,Macedonia,Gostivar,1
+1729,Estonia,Saare,1
+1730,Estonia,V?rumaa,1
+1731,Macedonia,Berovo,1
+1732,Ethiopia,Adis Abeba Astedader,1
+1733,Ethiopia,Somali,1
+1734,Faroe Islands,Eysturoy,1
+1735,Libya,Sha'biyat Banghazi,1
+1736,Finland,Central Ostrobothnia,1
+1737,Liberia,Montserrado County,1
+1738,Lebanon,Mohafazat Liban-Sud,1
+1739,Lebanon,Mohafazat Liban-Nord,1
+1740,Latvia,Viesites Novads,1
+1741,Latvia,Ozolnieku Novads,1
+1742,Latvia,Lielv?rde,1
+1743,Finland,Ostrobothnia,1
+1744,Latvia,Lecava,1
+1745,Latvia,Jelgavas Rajons,1
+1746,Latvia,Jaunjelgava,1
+1747,Latvia,Broc?ni,1
+1748,France,Meuse,1
+1749,Italy,Province of Enna,1
+1750,Ireland,Laois,1
+1751,Ireland,County Wexford,1
+1752,Indonesia,North Sulawesi,1
+1753,Indonesia,Nanggroe Aceh Darussalam Province,1
+1754,India,Nagaland,1
+1755,Iceland,Northeast,1
+1756,Hungary,Heves megye,1
+1757,Hungary,Bekes,1
+1758,Honduras,Departamento de Gracias a Dios,1
+1759,Honduras,Departamento de Atlantida,1
+1760,Honduras,Bay Islands,1
+1761,Hashemite Kingdom of Jordan,Zarqa,1
+1762,Haiti,Nord,1
+1763,Guinea-Bissau,Bissau,1
+1764,Guam,Hagatna,1
+1765,Greenland,Qaasuitsup,1
+1766,Ghana,Volta Region,1
+1767,Greece,Trikala,1
+1768,Greece,Phthiotis,1
+1769,Greece,Chios,1
+1770,Greece,Corinthia,1
+1771,Greece,Nomos Zakynthou,1
+1772,Greece,Florina,1
+1773,Greece,Ilia Prefecture,1
+1774,Greece,Imathia,1
+1775,Greece,Ioannina,1
+1776,Greece,Nomos Dramas,1
+1777,Georgia,Racha-Lechkhumi and Kvemo Svaneti,1
+1778,Indonesia,South Kalimantan,1
+1779,Georgia,Kakheti,1
+1780,France,Territoire de Belfort,1
+1781,Ireland,County Westmeath,1
+1782,France,Pyr?n?es-Orientales,1
+1783,Ireland,County Waterford,1
+1784,Ireland,County Donegal,1
+1785,Ireland,County Carlow,1
+1786,Ireland,Co Louth,1
+1787,Ireland,Co Clare,1
+1788,Iraq,Muhafazat as Sulaymaniyah,1
+1789,Iraq,Muhafazat Kirkuk,1
+1790,Iraq,Muhafazat Babil,1
+1791,France,Tarn-et-Garonne,1
+1792,Iran,Zanjan,1
+1793,Indonesia,South Sulawesi,1
+1794,Iran,Yazd,1
+1795,Iran,Sistan and Baluchestan,1
+1796,Iran,Ostan-e Qazvin,1
+1797,Iran,Ostan-e Chahar Mahal va Bakhtiari,1
+1798,Iran,Ostan-e Azarbayjan-e Gharbi,1
+1799,Iran,M?zandar?n,1
+1800,Iran,Kerman,1
+1801,Iran,Hormozgan,1
+1802,Gambia,City of Banjul,1
+1803,Iran,Alborz,1
+1804,Indonesia,West Sumatra,1
+1805,Macedonia,Struga,1
+1806,Macedonia,Strumica,1
+1807,Equatorial Guinea,Provincia de Bioko Norte,1
+1808,New Zealand,Taranaki,1
+1809,Peru,Piura,1
+1810,Peru,Pasco,1
+1811,Peru,Lima,1
+1812,Peru,Lambayeque,1
+1813,Peru,La Libertad,1
+1814,Czech Republic,B?eclav District,1
+1815,Peru,Huancavelica,1
+1816,Czech Republic,Blansko District,1
+1817,Czech Republic,Cheb District,1
+1818,Peru,Apurimac,1
+1819,Papua New Guinea,National Capital,1
+1820,Panama,Provincia de Herrera,1
+1821,Czech Republic,Doma?lice District,1
+1822,Panama,Ngoebe-Bugle,1
+1823,North Korea,Chagang-do,1
+1824,Nigeria,Zamfara State,1
+1825,Nigeria,Osun State,1
+1826,Czech Republic,Kladno District,1
+1827,Nigeria,Ogun State,1
+1828,Nigeria,Enugu State,1
+1829,Czech Republic,Kutn? Hora District,1
+1830,Nigeria,Akwa Ibom State,1
+1831,Czech Republic,Liberecky kraj,1
+1832,Czech Republic,Louny District,1
+1833,Czech Republic,M?ln?k District,1
+1834,Cyprus,Ammochostos,1
+1835,Cuba,Provincia de Ciego de Avila,1
+1836,Greece,Laconia,1
+1837,Philippines,Province of Pampanga,1
+1838,Republic of Moldova,F?le?ti,1
+1839,Republic of Lithuania,Marijampoles apskritis,1
+1840,Republic of Korea,Jeollanam-do,1
+1841,Republic of Korea,Jeollabuk-do,1
+1842,Puerto Rico,Humacao Municipio,1
+1843,Portugal,Distrito de Viana do Castelo,1
+1844,Portugal,Distrito de Castelo Branco,1
+1845,Portugal,Distrito de Beja,1
+1846,Philippines,Zamboanga Peninsula,1
+1847,Colombia,"Providencia y Santa Catalina, Departamento de Archipielago de San Andres",1
+1848,Philippines,Province of Sorsogon,1
+1849,Philippines,Province of Negros Oriental,1
+1850,Croatia,Zagreb County,1
+1851,Croatia,Brodsko-Posavska Zupanija,1
+1852,Philippines,Province of Lanao del Norte,1
+1853,Croatia,Krapinsko-Zagorska Zupanija,1
+1854,Philippines,Province of Aklan,1
+1855,Philippines,Ilocos,1
+1856,Croatia,Sibensko-Kninska Zupanija,1
+1857,Croatia,Sisacko-Moslavacka Zupanija,1
+1858,Philippines,Eastern Visayas,1
+1859,Croatia,Varazdinska Zupanija,1
+1860,Croatia,Vukovarsko-Srijemska Zupanija,1
+1861,Philippines,Central Luzon,1
+1862,Nigeria,Adamawa,1
+1863,New Zealand,Southland,1
+1864,Macedonia,Tetovo,1
+1865,New Zealand,Otago,1
+1866,Dominican Republic,Provincia Maria Trinidad Sanchez,1
+1867,Mexico,Hidalgo,1
+1868,Dominican Republic,Provincia de La Romana,1
+1869,Dominican Republic,Provincia de La Vega,1
+1870,Mexico,Guerrero,1
+1871,Dominican Republic,Provincia de San Jose de Ocoa,1
+1872,Ecuador,Provincia de Loja,1
+1873,Malta,Tarxien,1
+1874,Malta,Saint Venera,1
+1875,Ecuador,Provincia de Santa Elena,1
+1876,Malta,Qormi,1
+1877,Malta,L-Imqabba,1
+1878,Egypt,Eastern Province,1
+1879,Egypt,Ismailia Governorate,1
+1880,Egypt,Luxor,1
+1881,Malta,Iz-Zebbug,1
+1882,Egypt,Muhafazat Bur Sa`id,1
+1883,Egypt,Muhafazat Dumyat,1
+1884,Egypt,Muhafazat Qina,1
+1885,Malta,In-Nadur,1
+1886,Malta,Bormla,1
+1887,Mali,Bamako Region,1
+1888,Malaysia,Terengganu,1
+1889,Madagascar,Vakinankaratra Region,1
+1890,Macedonia,Veles,1
+1891,Dominican Republic,Provincia Duarte,1
+1892,Dominica,Saint George,1
+1893,Mexico,San Luis Potos?,1
+1894,Czech Republic,Prost?jov District,1
+1895,New Zealand,Nelson,1
+1896,New Zealand,Marlborough,1
+1897,New Caledonia,South Province,1
+1898,Czech Republic,Okres Kolin,1
+1899,Nepal,Western Region,1
+1900,Czech Republic,Okres Praha-Vychod,1
+1901,Czech Republic,Okres Praha-Zapad,1
+1902,Morocco,Tadla-Azilal,1
+1903,Morocco,Skhirate-Temara,1
+1904,Czech Republic,P?sek District,1
+1905,Morocco,Settat Province,1
+1906,Czech Republic,Semily District,1
+1907,Mexico,Tlaxcala,1
+1908,Czech Republic,Sokolov District,1
+1909,Morocco,Region de Souss-Massa-Draa,1
+1910,Morocco,Larache,1
+1911,Czech Republic,T?bor District,1
+1912,Czech Republic,Tachov District,1
+1913,Morocco,Gharb-Chrarda-Beni Hssen,1
+1914,Montenegro,Cetinje,1
+1915,Mongolia,Selenge Aymag,1
+1916,Mongolia,Govi-Altay Aymag,1
+1917,Mongolia,East Aimak,1
+1918,Mongolia,Bayan-OElgiy Aymag,1
+1919,Mexico,Oaxaca,1
